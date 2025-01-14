@@ -9,7 +9,8 @@
   },
   "scripts": {
     "dev": "vite",
-    "test": "prettier --check ."
+    "test": "prettier --check .",
+    "build": "vite build"
   },
   "name": "exercise-02",
   "version": "1.0.0",
